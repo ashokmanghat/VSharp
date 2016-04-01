@@ -1,4 +1,4 @@
-# VShap
+# VSharp
 V# (VSharp) is a concept of verbal programming framework. It allows you to program software by taking to the computer.
 
 Computer usually knows a lot of stuff. For example it knows how to write data into a database or how to display something on the screen. It also knows how to manipulate data. What it does not know is how to connect these pieces together and create software application.
