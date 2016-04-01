@@ -7,7 +7,9 @@ V# gives this ability to computer by talking to it. Visualize that you are takin
 
 ##How it works:
 
-Let's say you are assigning a task to your teammate. You conversation goes like this:
+Let's say you are assigning a task to your teammate. 
+
+You conversation goes like this:
 
 You: Raju, we need to create a simple form to capture customer preferences.
 
@@ -24,6 +26,7 @@ Raju: you mean I should create a foreign key in new table that maps to customer 
 You: Yes.
 
 You: And Raju, ensure that the validations are in place.
+
 Raju: What validations?
 
 You: All fields are mendatory. Email should look like an email and and phone number should also look good.
